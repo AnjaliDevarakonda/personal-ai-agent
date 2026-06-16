@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+memory.json
+chat_log_*.txt
+.DS_Store
