@@ -22,10 +22,6 @@ A conversational AI agent with memory, personality, and offline capabilities.
 4. Install dependencies: `pip install -r requirements.txt`
 5. Run: `python agent.py`
 
-## My Learning Journey
-I built this to understand AI agent architecture.
-- Next: Learning Google ADK
-- Goal: Build a multi-agent system
 
 ## License
 MIT
